@@ -230,13 +230,21 @@
     </url>
     <url>
         <loc>http://foodie.davidfisco.com/2014/01/14/Caraway-Chocolate-Chip-Cookies.html</loc>
-        <lastmod>2014-01-26T18:03:12-05:00</lastmod>
+        <lastmod>2014-01-26T23:29:01-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>
+            http://foodie.davidfisco.com/2014/01/26/Vegan-Agave-and-Canola-Oil-Apple-Cake.html
+        </loc>
+        <lastmod>2014-01-26T23:33:13-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>http://foodie.davidfisco.com/</loc>
-        <lastmod>2014-01-26T18:03:12-05:00</lastmod>
+        <lastmod>2014-01-26T23:33:13-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.0</priority>
     </url>
