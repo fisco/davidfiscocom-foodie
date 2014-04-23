@@ -261,6 +261,12 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://foodie.davidfisco.com/2014/04/22/ghee-and-orange-juice-cake.html</loc>
+        <lastmod>2014-04-22T23:57:31-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://foodie.davidfisco.com/corn_cake/corn_cake/</loc>
         <lastmod>2014-03-30T19:22:07-04:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -268,7 +274,7 @@
     </url>
     <url>
         <loc>http://foodie.davidfisco.com/</loc>
-        <lastmod>2014-04-21T22:26:46-04:00</lastmod>
+        <lastmod>2014-04-22T23:57:31-04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.0</priority>
     </url>
