@@ -379,12 +379,18 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>http://foodie.davidfisco.com/2015/07/13/grappa-orange-cake.html</loc>
+        <lastmod>2015-07-13T22:48:24-04:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>http://foodie.davidfisco.com/404.html</loc>
         <lastmod>2015-06-17T14:02:25-04:00</lastmod>
     </url>
     <url>
         <loc>http://foodie.davidfisco.com/</loc>
-        <lastmod>2015-07-08T21:36:50-04:00</lastmod>
+        <lastmod>2015-07-13T22:48:24-04:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.0</priority>
     </url>
