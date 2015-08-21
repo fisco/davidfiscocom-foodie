@@ -45,7 +45,7 @@
 <meta property="og:description" content="All the benefits of camelina oil in a simple but flavorful cake">
 <meta property="og:site_name" content="David Fisco">
 <meta property="article:published_time" content="2015-01-06T16:43:51-05:00">
-<meta property="article:modified_time" content="2015-08-19T21:59:12-04:00">
+<meta property="article:modified_time" content="2015-08-21T00:11:17-04:00">
 <meta property="article:section" content="Foodie">
 <meta property="article:tag" content="">
 <!-- <meta property="fb:admins" content="FACEBOOK NUMBERIC ID"> -->
@@ -372,11 +372,11 @@ jQuery(function($) {
 
     <link rel="dns-prefetch" href="//dl.dropboxusercontent.com">
     <link rel="dns-prefetch" href="//disqus.com">
-    
+
     <script type="text/javascript">var switchTo5x=true;</script>
     <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
     <script type="text/javascript">stLight.options({publisher: "7b5ac0a6-a858-424a-8836-7b6bf26134bd", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-    
+
 </head>
 
 <body itemscope 
@@ -411,12 +411,12 @@ itemref='schema-creativework-datepublished schema-creativework-datemodified sche
   </span>
 </span>
 </span>
-  <div class="pull-right-md-lg"><div class="btn-group" role="group" style="margin-top: .25em;" aria-label="fiscoSiteButtons">
+  <div class="pull-right-md-lg"><div class="btn-group" id="fisco-site-bar-button-group" role="group" style="margin-top: .25em;" aria-label="fiscoSiteButtons">
   <div class="btn-group" role="group">
   <button class="btn btn-default btn-xs dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
     <b>MENU</b>
   </button>
-  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+  <ul class="dropdown-menu pull-right" aria-labelledby="dropdownMenu1">
     <li><a href="http://www.davidfisco.com/about.html">About David Fisco</a></li>
     <li role="separator" class="divider"></li>
     <li class="dropdown-header">Site Topics:</li>
@@ -437,7 +437,7 @@ itemref='schema-creativework-datepublished schema-creativework-datemodified sche
   <button class="btn btn-default btn-xs dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
     <b>CONTACT</b>
   </button>
-  <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+  <ul class="dropdown-menu pull-right" aria-labelledby="dropdownMenu2">
     <li class='' id='david-fiscos-email-address-button' itemscope><a class="captcha_reveal_email_david_fisco email-button-fisco" href="http://www.google.com/recaptcha/mailhide/d?k=01s9_vxXcu4bIHxZ3RnEGCag==&amp;c=ErkK_CpjGlH_OfuGIWzHgizVQgRzpvHItJvrEyCadl4=" id="schema-person-david-fisco-email" itemprop="email">Get David Fisco's Email Address</a></li>
     <li><a href="https://docs.google.com/a/davidfisco.com/forms/d/1owZHNQmZIrgWpuz3G6peKm-9JV8Ulypz4K5VLTdHen8/viewform" target="_blank">Email David Fisco via Web Form</a></li>
     <li role="separator" class="divider"></li>
@@ -506,6 +506,15 @@ $('#searchDavidFiscoDialogInput').on('keyup', function (e) {
 </script>
 
 </div>
+<script>
+  $('#fisco-site-bar-button-group .dropdown-toggle').on('click', function(){
+    if($(window).width() < 992) {
+      $('#fisco-site-bar-button-group .dropdown-menu').removeClass('pull-right');
+    } else {
+      $('#fisco-site-bar-button-group .dropdown-menu').addClass('pull-right');
+    }
+  });
+</script>
 </div>
 </div>
 
@@ -592,6 +601,27 @@ $('#searchDavidFiscoDialogInput').on('keyup', function (e) {
 
 </div>
             <div id='after-payload-fisco'></div>
+            
+              <div class='text-center' style="margin-top: 2em;">
+                <span class='st_sharethis' displayText='ShareThis'></span>
+                <span class='st_facebook' displayText='Facebook'></span>
+                <span class='st_twitter' displayText='Tweet'></span>
+                <span class='st_linkedin' displayText='LinkedIn'></span>
+                <span class='st_googleplus' displayText='Google +'></span>
+                <span class='st_email' displayText='Email'></span>
+              </div>
+            
+            <div class="small text-muted" style="margin-top: 4em;">
+              
+
+
+
+  <p class='copyright-fisco full-copyright'>Copyright &copy; <span id='schema-creativework-copyrightyear' itemprop='copyrightYear'>2015</span> by David Fisco. All rights reserved worldwide. Requests for licensing and distribution can be emailed to
+      <a href='http://www.google.com/recaptcha/mailhide/d?k\07501s9_vxXcu4bIHxZ3RnEGCag\75\75\46c\75ErkK_CpjGlH_OfuGIWzHgizVQgRzpvHItJvrEyCadl4\075' class='captcha_reveal_email_david_fisco'>David Fisco</a>.</p>
+
+
+
+            </div>
         </div>
     </main>
 
@@ -602,17 +632,7 @@ $('#searchDavidFiscoDialogInput').on('keyup', function (e) {
     
     
     
-    
-    
-    <div class='container text-center' style="margin-top: 2em;">
-        <span class='st_sharethis' displayText='ShareThis'></span>
-        <span class='st_facebook' displayText='Facebook'></span>
-        <span class='st_twitter' displayText='Tweet'></span>
-        <span class='st_linkedin' displayText='LinkedIn'></span>
-        <span class='st_googleplus' displayText='Google +'></span>
-        <span class='st_email' displayText='Email'></span>
-    </div>
-    
+
 
     <meta id='schema-thing-url' itemprop="url" content="http://foodie.davidfisco.com/2015/01/06/camelina-oil-cake.html" />
 
