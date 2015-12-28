@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://foodie.davidfisco.com/2015/12/27/deep-fried-dinner-biscuit.html</loc>
+    <lastmod>2015-12-27T20:19:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://foodie.davidfisco.com/2015/12/01/apple-cider-velvet-cake.html</loc>
     <lastmod>2015-12-01T21:35:00-05:00</lastmod>
   </url>
@@ -450,16 +454,19 @@
     <url>
       <loc>http://foodie.davidfisco.com/2015/12/01/apple-cider-velvet-cake.html</loc>
     </url>
+    <url>
+      <loc>http://foodie.davidfisco.com/2015/12/27/deep-fried-dinner-biscuit.html</loc>
+    </url>
   <url>
     <loc>http://foodie.davidfisco.com/2013/04/recipe-corn-cake.html</loc>
-    <lastmod>2015-12-01T21:55:17-05:00</lastmod>
+    <lastmod>2015-12-27T20:50:03-05:00</lastmod>
   </url>
   <url>
     <loc>http://foodie.davidfisco.com/2013/04/recipe-corn-cake-series-new-world-spice.html</loc>
-    <lastmod>2015-12-01T21:55:17-05:00</lastmod>
+    <lastmod>2015-12-27T20:50:03-05:00</lastmod>
   </url>
   <url>
     <loc>http://foodie.davidfisco.com/2013/04/recipe-corn-cake-series-lemon-variation.html</loc>
-    <lastmod>2015-12-01T21:55:17-05:00</lastmod>
+    <lastmod>2015-12-27T20:50:03-05:00</lastmod>
   </url>
 </urlset>
