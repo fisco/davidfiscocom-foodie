@@ -1,514 +1,308 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://foodie.davidfisco.com/2016/01/11/strawberry-champagne-cake.html</loc>
-    <lastmod>2016-01-11T21:23:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2016/01/08/baked-hummus-lasagna.html</loc>
-    <lastmod>2016-01-08T14:12:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2016/01/05/semi-sweet-choc-cherry-hazelnut-for-two.html</loc>
-    <lastmod>2016-01-05T21:38:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2016/01/01/hannah-glasse-pound-cake-2015.html</loc>
-    <lastmod>2016-01-01T22:52:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/12/30/pineapple-champagne-cake.html</loc>
-    <lastmod>2015-12-30T14:30:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/12/28/orange-champagne-cake.html</loc>
-    <lastmod>2015-12-28T16:23:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/12/27/deep-fried-dinner-biscuit.html</loc>
-    <lastmod>2015-12-27T20:19:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/12/01/apple-cider-velvet-cake.html</loc>
-    <lastmod>2015-12-01T21:35:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/09/07/grappa-cheesecake.html</loc>
-    <lastmod>2015-09-07T16:43:51-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/07/13/grappa-orange-cake.html</loc>
-    <lastmod>2015-07-13T16:43:51-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/07/08/grappa-cream-cheese-frosting.html</loc>
-    <lastmod>2015-07-08T16:43:51-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/07/06/grappa-pistachio-raisin-gelato.html</loc>
-    <lastmod>2015-07-06T18:43:51-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/01/07/radical-orange-rum-sherbet.html</loc>
-    <lastmod>2015-01-07T22:29:49-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/01/06/camelina-oil-cake.html</loc>
-    <lastmod>2015-01-06T16:43:51-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/01/05/juniper-berry-traditional-pound-cake.html</loc>
-    <lastmod>2015-01-05T16:02:07-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/01/04/fifty-one-packet-ice-cream.html</loc>
-    <lastmod>2015-01-04T20:58:01-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/01/04/mai-tai-cake.html</loc>
-    <lastmod>2015-01-04T17:43:04-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2015/01/03/jaggery-butter-sauce.html</loc>
-    <lastmod>2015-01-03T23:58:32-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/12/30/mai-tai-cookies.html</loc>
-    <lastmod>2014-12-30T23:58:32-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/12/06/jaggery-frosting.html</loc>
-    <lastmod>2014-12-06T23:58:32-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/11/29/juniper-berry-white-cake.html</loc>
-    <lastmod>2014-11-29T23:58:32-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/11/23/radical-rum-sherbert.html</loc>
-    <lastmod>2014-11-23T23:58:32-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/09/24/basic-doppio-zero-cake.html</loc>
-    <lastmod>2014-09-24T23:58:32-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/07/09/easy-cherry-cheesecake-ice-cream.html</loc>
-    <lastmod>2014-07-09T23:58:32-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/07/01/jaggery-brownie.html</loc>
-    <lastmod>2014-07-01T23:58:32-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/06/01/rye-chocolate-chip-cookie-with-orange.html</loc>
-    <lastmod>2014-06-01T23:25:32-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/05/26/rye-chocolate-chip-cookie.html</loc>
-    <lastmod>2014-05-26T23:25:32-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/05/08/sables-plus-plus.html</loc>
-    <lastmod>2014-05-08T23:50:32-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/04/22/ghee-and-orange-juice-cake.html</loc>
-    <lastmod>2014-04-22T23:50:32-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/04/21/Waldorf-Lasagna.html</loc>
-    <lastmod>2014-04-21T21:46:50-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/04/20/Easy-Peanut-Shortbread.html</loc>
-    <lastmod>2014-04-20T22:16:59-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/03/24/Hazelnut-Bagel-Donuts.html</loc>
-    <lastmod>2014-03-24T23:39:05-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/01/26/Vegan-Agave-and-Canola-Oil-Apple-Cake.html</loc>
-    <lastmod>2014-01-26T23:04:59-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/01/14/Caraway-Chocolate-Chip-Cookies.html</loc>
-    <lastmod>2014-01-14T23:40:55-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/01/14/Anise-Orange-Rose-Cake.html</loc>
-    <lastmod>2014-01-14T23:40:55-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/01/13/Apple-Pie-Lasagna.html</loc>
-    <lastmod>2014-01-13T23:17:52-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2014/01/05/Vegan-Canola-Oil-White-Cake.html</loc>
-    <lastmod>2014-01-05T21:36:57-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/12/28/Jaggery-Walnut-Bars.html</loc>
-    <lastmod>2013-12-28T22:57:47-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/12/12/Recipe-Zinfandel-Ice-Cream-with-Bittersweet-Chocolate-Philadelphia-style.html</loc>
-    <lastmod>2013-12-12T21:25:06-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/12/recipe-canola-oil-yellow-cake.html</loc>
-    <lastmod>2013-12-01T16:36:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/12/01/sour-apple-ice-cream.html</loc>
-    <lastmod>2013-12-01T13:48:40-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/09/recipe-warm-chardonnay-cake-for-serving.html</loc>
-    <lastmod>2013-09-26T03:43:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/09/recipe-new-world-spice-ice-cream.html</loc>
-    <lastmod>2013-09-05T19:42:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/09/the-goat-and-duck-cake.html</loc>
-    <lastmod>2013-09-02T23:38:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/08/ceylon-cinnamon-and-peanut-butter-in.html</loc>
-    <lastmod>2013-08-10T18:04:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/07/recipe-jaggery-french-vanilla-ice-cream.html</loc>
-    <lastmod>2013-07-21T03:50:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/07/recipe-easy-red-wine-cake-with-canola.html</loc>
-    <lastmod>2013-07-14T01:35:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/06/tip-record-weights-of-your-kitchens.html</loc>
-    <lastmod>2013-06-23T00:25:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/corn_cake/2013/04/21/recipe-corn-cake-series-lemon-variation.html</loc>
-    <lastmod>2013-04-21T00:55:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/corn_cake/2013/04/16/recipe-corn-cake-series-new-world-spice.html</loc>
-    <lastmod>2013-04-16T03:49:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/corn_cake/2013/04/16/recipe-corn-cake.html</loc>
-    <lastmod>2013-04-16T03:17:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/01/recipe-cherry-coke-cake.html</loc>
-    <lastmod>2013-01-22T03:34:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2012/12/recipe-maximum-flavor-chocolate-chip.html</loc>
-    <lastmod>2012-12-20T05:08:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2012/11/recipe-warm-beurre-noisette-cake-with.html</loc>
-    <lastmod>2012-11-28T01:20:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2012/11/recipe-beurre-noisette-buttercream.html</loc>
-    <lastmod>2012-11-27T04:47:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2012/11/recipe-warm-banana-dessert-sauce.html</loc>
-    <lastmod>2012-11-27T03:27:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2012/09/recipe-accidental-extremely-fudgy.html</loc>
-    <lastmod>2012-09-05T02:31:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2012/07/recipe-light-and-downy-but-rich-white.html</loc>
-    <lastmod>2012-07-22T04:13:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2012/07/lemony-deep-fried-twinkies.html</loc>
-    <lastmod>2012-07-12T03:21:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2012/07/recipe-quick-sugar-free-peppermint-ice.html</loc>
-    <lastmod>2012-07-03T23:37:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2012/02/sugar-free-peanut-butter-cheesecake.html</loc>
-    <lastmod>2012-02-16T02:05:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2011/12/recipe-honey-walnut-cheesecake.html</loc>
-    <lastmod>2011-12-27T04:52:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2011/11/frugal-toasted-cake-topping.html</loc>
-    <lastmod>2011-11-30T17:50:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2011/11/pumpkin-and-devils-food-cake.html</loc>
-    <lastmod>2011-11-27T22:33:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2011/07/cookie-that-really-crumbles.html</loc>
-    <lastmod>2011-07-11T20:34:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2011/05/recipe-wine-and-cheese-sundae.html</loc>
-    <lastmod>2011-05-31T02:51:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2011/05/canola-oil-and-white-cake.html</loc>
-    <lastmod>2011-05-26T19:23:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2010/12/recipe-amaretto-doppio-zero-sugar.html</loc>
-    <lastmod>2011-01-01T03:54:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2010/12/recipe-coffee-sauce.html</loc>
-    <lastmod>2010-12-11T03:43:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2010/11/recipe-zinfandel-sauce.html</loc>
-    <lastmod>2010-12-01T02:55:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/404.html</loc>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/</loc>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/corn_cake/</loc>
-  </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2010/11/recipe-zinfandel-sauce.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2010/12/recipe-coffee-sauce.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2010/12/recipe-amaretto-doppio-zero-sugar.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2011/05/canola-oil-and-white-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2011/05/recipe-wine-and-cheese-sundae.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2011/07/cookie-that-really-crumbles.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2011/11/pumpkin-and-devils-food-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2011/11/frugal-toasted-cake-topping.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2011/12/recipe-honey-walnut-cheesecake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2012/02/sugar-free-peanut-butter-cheesecake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2012/07/recipe-quick-sugar-free-peppermint-ice.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2012/07/lemony-deep-fried-twinkies.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2012/07/recipe-light-and-downy-but-rich-white.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2012/09/recipe-accidental-extremely-fudgy.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2012/11/recipe-warm-banana-dessert-sauce.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2012/11/recipe-beurre-noisette-buttercream.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2012/11/recipe-warm-beurre-noisette-cake-with.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2012/12/recipe-maximum-flavor-chocolate-chip.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/01/recipe-cherry-coke-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/corn_cake/2013/04/16/recipe-corn-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/corn_cake/2013/04/16/recipe-corn-cake-series-new-world-spice.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/corn_cake/2013/04/21/recipe-corn-cake-series-lemon-variation.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/06/tip-record-weights-of-your-kitchens.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/07/recipe-easy-red-wine-cake-with-canola.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/07/recipe-jaggery-french-vanilla-ice-cream.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/08/ceylon-cinnamon-and-peanut-butter-in.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/09/the-goat-and-duck-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/09/recipe-new-world-spice-ice-cream.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/09/recipe-warm-chardonnay-cake-for-serving.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/12/01/sour-apple-ice-cream.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/12/recipe-canola-oil-yellow-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/12/12/Recipe-Zinfandel-Ice-Cream-with-Bittersweet-Chocolate-Philadelphia-style.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2013/12/28/Jaggery-Walnut-Bars.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/01/05/Vegan-Canola-Oil-White-Cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/01/13/Apple-Pie-Lasagna.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/01/14/Anise-Orange-Rose-Cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/01/14/Caraway-Chocolate-Chip-Cookies.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/01/26/Vegan-Agave-and-Canola-Oil-Apple-Cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/03/24/Hazelnut-Bagel-Donuts.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/04/20/Easy-Peanut-Shortbread.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/04/21/Waldorf-Lasagna.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/04/22/ghee-and-orange-juice-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/05/08/sables-plus-plus.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/05/26/rye-chocolate-chip-cookie.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/06/01/rye-chocolate-chip-cookie-with-orange.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/07/01/jaggery-brownie.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/07/09/easy-cherry-cheesecake-ice-cream.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/09/24/basic-doppio-zero-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/11/23/radical-rum-sherbert.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/11/29/juniper-berry-white-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/12/06/jaggery-frosting.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2014/12/30/mai-tai-cookies.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/01/03/jaggery-butter-sauce.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/01/04/mai-tai-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/01/04/fifty-one-packet-ice-cream.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/01/05/juniper-berry-traditional-pound-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/01/06/camelina-oil-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/01/07/radical-orange-rum-sherbet.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/07/06/grappa-pistachio-raisin-gelato.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/07/08/grappa-cream-cheese-frosting.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/07/13/grappa-orange-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/09/07/grappa-cheesecake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/12/01/apple-cider-velvet-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/12/27/deep-fried-dinner-biscuit.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/12/28/orange-champagne-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2015/12/30/pineapple-champagne-cake.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2016/01/01/hannah-glasse-pound-cake-2015.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2016/01/05/semi-sweet-choc-cherry-hazelnut-for-two.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2016/01/08/baked-hummus-lasagna.html</loc>
-    </url>
-    <url>
-      <loc>http://foodie.davidfisco.com/2016/01/11/strawberry-champagne-cake.html</loc>
-    </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/04/recipe-corn-cake.html</loc>
-    <lastmod>2016-04-04T19:24:37-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/04/recipe-corn-cake-series-new-world-spice.html</loc>
-    <lastmod>2016-04-04T19:24:37-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://foodie.davidfisco.com/2013/04/recipe-corn-cake-series-lemon-variation.html</loc>
-    <lastmod>2016-04-04T19:24:37-04:00</lastmod>
-  </url>
+<url>
+<loc>http://foodie.davidfisco.com/2016/04/25/campari-champagne-cocktail-cake.html</loc>
+<lastmod>2016-04-25T20:26:37-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2016/01/11/strawberry-champagne-cake.html</loc>
+<lastmod>2016-01-11T21:23:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2016/01/08/baked-hummus-lasagna.html</loc>
+<lastmod>2016-01-08T14:12:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2016/01/05/semi-sweet-choc-cherry-hazelnut-for-two.html</loc>
+<lastmod>2016-01-05T21:38:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2016/01/01/hannah-glasse-pound-cake-2015.html</loc>
+<lastmod>2016-01-01T22:52:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/12/30/pineapple-champagne-cake.html</loc>
+<lastmod>2015-12-30T14:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/12/28/orange-champagne-cake.html</loc>
+<lastmod>2015-12-28T16:23:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/12/27/deep-fried-dinner-biscuit.html</loc>
+<lastmod>2015-12-27T20:19:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/12/01/apple-cider-velvet-cake.html</loc>
+<lastmod>2015-12-01T21:35:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/09/07/grappa-cheesecake.html</loc>
+<lastmod>2015-09-07T16:43:51-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/07/13/grappa-orange-cake.html</loc>
+<lastmod>2015-07-13T16:43:51-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/07/08/grappa-cream-cheese-frosting.html</loc>
+<lastmod>2015-07-08T16:43:51-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/07/06/grappa-pistachio-raisin-gelato.html</loc>
+<lastmod>2015-07-06T18:43:51-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/01/07/radical-orange-rum-sherbet.html</loc>
+<lastmod>2015-01-07T22:29:49-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/01/06/camelina-oil-cake.html</loc>
+<lastmod>2015-01-06T16:43:51-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/01/05/juniper-berry-traditional-pound-cake.html</loc>
+<lastmod>2015-01-05T16:02:07-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/01/04/fifty-one-packet-ice-cream.html</loc>
+<lastmod>2015-01-04T20:58:01-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/01/04/mai-tai-cake.html</loc>
+<lastmod>2015-01-04T17:43:04-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2015/01/03/jaggery-butter-sauce.html</loc>
+<lastmod>2015-01-03T23:58:32-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/12/30/mai-tai-cookies.html</loc>
+<lastmod>2014-12-30T23:58:32-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/12/06/jaggery-frosting.html</loc>
+<lastmod>2014-12-06T23:58:32-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/11/29/juniper-berry-white-cake.html</loc>
+<lastmod>2014-11-29T23:58:32-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/11/23/radical-rum-sherbert.html</loc>
+<lastmod>2014-11-23T23:58:32-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/09/24/basic-doppio-zero-cake.html</loc>
+<lastmod>2014-09-24T23:58:32-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/07/09/easy-cherry-cheesecake-ice-cream.html</loc>
+<lastmod>2014-07-09T23:58:32-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/07/01/jaggery-brownie.html</loc>
+<lastmod>2014-07-01T23:58:32-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/06/01/rye-chocolate-chip-cookie-with-orange.html</loc>
+<lastmod>2014-06-01T23:25:32-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/05/26/rye-chocolate-chip-cookie.html</loc>
+<lastmod>2014-05-26T23:25:32-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/05/08/sables-plus-plus.html</loc>
+<lastmod>2014-05-08T23:50:32-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/04/22/ghee-and-orange-juice-cake.html</loc>
+<lastmod>2014-04-22T23:50:32-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/04/21/Waldorf-Lasagna.html</loc>
+<lastmod>2014-04-21T21:46:50-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/04/20/Easy-Peanut-Shortbread.html</loc>
+<lastmod>2014-04-20T22:16:59-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/03/24/Hazelnut-Bagel-Donuts.html</loc>
+<lastmod>2014-03-24T23:39:05-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/01/26/Vegan-Agave-and-Canola-Oil-Apple-Cake.html</loc>
+<lastmod>2014-01-26T23:04:59-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/01/14/Caraway-Chocolate-Chip-Cookies.html</loc>
+<lastmod>2014-01-14T23:40:55-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/01/14/Anise-Orange-Rose-Cake.html</loc>
+<lastmod>2014-01-14T23:40:55-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/01/13/Apple-Pie-Lasagna.html</loc>
+<lastmod>2014-01-13T23:17:52-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2014/01/05/Vegan-Canola-Oil-White-Cake.html</loc>
+<lastmod>2014-01-05T21:36:57-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/12/28/Jaggery-Walnut-Bars.html</loc>
+<lastmod>2013-12-28T22:57:47-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/12/12/Recipe-Zinfandel-Ice-Cream-with-Bittersweet-Chocolate-Philadelphia-style.html</loc>
+<lastmod>2013-12-12T21:25:06-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/12/recipe-canola-oil-yellow-cake.html</loc>
+<lastmod>2013-12-01T16:36:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/12/01/sour-apple-ice-cream.html</loc>
+<lastmod>2013-12-01T13:48:40-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/09/recipe-warm-chardonnay-cake-for-serving.html</loc>
+<lastmod>2013-09-26T03:43:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/09/recipe-new-world-spice-ice-cream.html</loc>
+<lastmod>2013-09-05T19:42:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/09/the-goat-and-duck-cake.html</loc>
+<lastmod>2013-09-02T23:38:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/08/ceylon-cinnamon-and-peanut-butter-in.html</loc>
+<lastmod>2013-08-10T18:04:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/07/recipe-jaggery-french-vanilla-ice-cream.html</loc>
+<lastmod>2013-07-21T03:50:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/07/recipe-easy-red-wine-cake-with-canola.html</loc>
+<lastmod>2013-07-14T01:35:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/06/tip-record-weights-of-your-kitchens.html</loc>
+<lastmod>2013-06-23T00:25:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/corn_cake/2013/04/21/recipe-corn-cake-series-lemon-variation.html</loc>
+<lastmod>2013-04-21T00:55:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/corn_cake/2013/04/16/recipe-corn-cake-series-new-world-spice.html</loc>
+<lastmod>2013-04-16T03:49:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/corn_cake/2013/04/16/recipe-corn-cake.html</loc>
+<lastmod>2013-04-16T03:17:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/01/recipe-cherry-coke-cake.html</loc>
+<lastmod>2013-01-22T03:34:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2012/12/recipe-maximum-flavor-chocolate-chip.html</loc>
+<lastmod>2012-12-20T05:08:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2012/11/recipe-warm-beurre-noisette-cake-with.html</loc>
+<lastmod>2012-11-28T01:20:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2012/11/recipe-beurre-noisette-buttercream.html</loc>
+<lastmod>2012-11-27T04:47:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2012/11/recipe-warm-banana-dessert-sauce.html</loc>
+<lastmod>2012-11-27T03:27:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2012/09/recipe-accidental-extremely-fudgy.html</loc>
+<lastmod>2012-09-05T02:31:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2012/07/recipe-light-and-downy-but-rich-white.html</loc>
+<lastmod>2012-07-22T04:13:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2012/07/lemony-deep-fried-twinkies.html</loc>
+<lastmod>2012-07-12T03:21:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2012/07/recipe-quick-sugar-free-peppermint-ice.html</loc>
+<lastmod>2012-07-03T23:37:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2012/02/sugar-free-peanut-butter-cheesecake.html</loc>
+<lastmod>2012-02-16T02:05:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2011/12/recipe-honey-walnut-cheesecake.html</loc>
+<lastmod>2011-12-27T04:52:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2011/11/frugal-toasted-cake-topping.html</loc>
+<lastmod>2011-11-30T17:50:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2011/11/pumpkin-and-devils-food-cake.html</loc>
+<lastmod>2011-11-27T22:33:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2011/07/cookie-that-really-crumbles.html</loc>
+<lastmod>2011-07-11T20:34:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2011/05/recipe-wine-and-cheese-sundae.html</loc>
+<lastmod>2011-05-31T02:51:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2011/05/canola-oil-and-white-cake.html</loc>
+<lastmod>2011-05-26T19:23:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2010/12/recipe-amaretto-doppio-zero-sugar.html</loc>
+<lastmod>2011-01-01T03:54:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2010/12/recipe-coffee-sauce.html</loc>
+<lastmod>2010-12-11T03:43:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2010/11/recipe-zinfandel-sauce.html</loc>
+<lastmod>2010-12-01T02:55:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/404.html</loc>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/</loc>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/corn_cake/</loc>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/04/recipe-corn-cake.html</loc>
+<lastmod>2016-04-25T20:41:26-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/04/recipe-corn-cake-series-new-world-spice.html</loc>
+<lastmod>2016-04-25T20:41:26-04:00</lastmod>
+</url>
+<url>
+<loc>http://foodie.davidfisco.com/2013/04/recipe-corn-cake-series-lemon-variation.html</loc>
+<lastmod>2016-04-25T20:41:26-04:00</lastmod>
+</url>
 </urlset>
