@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: /404.html
 
+User-agent: Twitterbot
+Disallow:
+
 Sitemap: http://foodie.davidfisco.com/sitemap.xml
